@@ -8,7 +8,7 @@ I'm a first-year B.Tech Computer Science student at ITM School of Future Tech. I
 ## 🛠️ Tech Skills
 
 - **Languages:** Python, C++, HTML
-- 
+  
 ---
 
 ## 🤝 Connect with Me
