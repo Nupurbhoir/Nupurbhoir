@@ -8,10 +8,7 @@ I'm a first-year B.Tech Computer Science student at ITM School of Future Tech. I
 ## 🛠️ Tech Skills
 
 - **Languages:** Python, C++, HTML
-  ![Python Logo](https://via.placeholder.com/100x50 "Python Logo")
-  ![C++ Logo](https://via.placeholder.com/100x50 "C++ Logo")
-  ![HTML Logo](https://via.placeholder.com/100x50 "HTML Logo")
-
+- 
 ---
 
 ## 🤝 Connect with Me
