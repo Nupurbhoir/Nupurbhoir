@@ -14,7 +14,7 @@
 # Hi there, I'm Nupur Bhoir! 👋
 
 Welcome to my GitHub profile! 
-I'm a first-year B.Tech Computer Science student at ITM School of Future Tech. I love coding and exploring new technologies to build innovative projects. Here, you'll find a collection of my projects and experiments as I grow my skills in programming.
+I'm a Third-year B.Tech Computer Science student at ITM School of Future Tech. I love coding and exploring new technologies to build innovative projects. Here, you'll find a collection of my projects and experiments as I grow my skills in programming.
 
 ---
 
